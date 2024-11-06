@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(#1c1c1c, #000000);
+  color: white;
+  margin: 0px;
+  font-size: 4vmin;
+  font-family: "Poppins", serif;
+  font-weight: 800;
+  font-style: normal;
+}
